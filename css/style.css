@@ -1,0 +1,28 @@
+.body{
+    overflow-y: hidden;
+}
+
+.hero{
+    min-height: 100vh;
+    background: url("../img/447503_bart-simpson-wallpapers-hd-free-download_1280x1024_h.jpg") no-repeat center/cover;
+}
+.list{
+
+    margin-top: 50px;
+}
+.list-group-item {
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 1px solid silver;
+}
+.form-control {
+
+    background-color: transparent;
+border-bottom: solid 1px silver;
+    border-radius: 0;
+    margin-right: -3px;
+}
+.btn {
+    border-radius: 0;
+}
